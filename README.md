@@ -6,9 +6,9 @@ Hello, I'm Your Aspen! 👋
 
 I am a UI with a passion for [Your Interests]. Here are a few things about me:
 
-- 🌐 [Your Website or Portfolio Link]
-- 📚 Currently learning [What You're Learning]
-- 🤔 Interested in [Your Interests]
+- 🌐 aspenzhu.me
+- 📚 Currently learning Japanese and English
+- 🤔 Interested in People
 
 ## Hobbies
 
